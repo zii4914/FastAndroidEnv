@@ -4,8 +4,9 @@
 2. 下载并安装SDK
 3. 下载并安装AS
 4. 下载并安装Git
-5. 配置AS的Style及插件(AndroidButterKnifeZelezny,CheckStyle-IDEA,GsonFormat,Translation,CodeGenerator,TemplateBuilder)
-6. 配置Git
+5. 配置AS的Style及插件   
+(AndroidButterKnifeZelezny，GsonFormat，CheckStyle-IDEA，Translation，CodeGenerator，TemplateBuilder)
+6. 配置Git ssh
 
 # PC:
 
@@ -18,11 +19,15 @@
 - 网易云
 - 有道词典
 - 迅雷极速版
+- WPS
 
 # 其他辅助工具：
 
-- Sql查看				Navicat for Sql
-- Json数据格式化		HiJson
-- 接口测试				PostMan
-- Ui图片查看			Mark Man，PxCook
-- 原型图设计			墨刀
+|软件|作用|
+|-|-:|
+|Navicat for Sql|Sql查看|
+|HiJson|Json数据格式化|
+|PostMan|接口测试|
+|Mark Man，PxCook|Ui图片查看|
+|墨刀|原型图设计|
+|EveryThing|搜索|
