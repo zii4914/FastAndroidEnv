@@ -1,28 +1,28 @@
-#Andorid:
+# Andorid:
 
-1. ÏÂÔØ²¢°²×°JDK
-2. ÏÂÔØ²¢°²×°SDK
-3. ÏÂÔØ²¢°²×°AS
-4. ÏÂÔØ²¢°²×°Git
-5. ÅäÖÃASµÄStyle¼°²å¼ş(AndroidButterKnifeZelezny,CheckStyle-IDEA,GsonFormat,Translation,CodeGenerator,TemplateBuilder)
-6. ÅäÖÃGit
+1. ä¸‹è½½å¹¶å®‰è£…JDK
+2. ä¸‹è½½å¹¶å®‰è£…SDK
+3. ä¸‹è½½å¹¶å®‰è£…AS
+4. ä¸‹è½½å¹¶å®‰è£…Git
+5. é…ç½®ASçš„StyleåŠæ’ä»¶(AndroidButterKnifeZelezny,CheckStyle-IDEA,GsonFormat,Translation,CodeGenerator,TemplateBuilder)
+6. é…ç½®Git
 
 # PC:
 
-NotePad++
-Chrome
-À¶µÆ
-TMI
-Î¢ĞÅ
-ÍøÒ×ÓÊÏä´óÊ¦
-ÍøÒ×ÔÆ
-ÓĞµÀ´Êµä
-Ñ¸À×¼«ËÙ°æ
+- NotePad++
+- Chrome
+- è“ç¯
+- TMI
+- å¾®ä¿¡
+- ç½‘æ˜“é‚®ç®±å¤§å¸ˆ
+- ç½‘æ˜“äº‘
+- æœ‰é“è¯å…¸
+- è¿…é›·æé€Ÿç‰ˆ
 
-# ÆäËû¸¨Öú¹¤¾ß£º
+# å…¶ä»–è¾…åŠ©å·¥å…·ï¼š
 
-Sql²é¿´				Navicat for Sql
-JsonÊı¾İ¸ñÊ½»¯		HiJson
-½Ó¿Ú²âÊÔ				PostMan
-UiÍ¼Æ¬²é¿´			Mark Man£¬PxCook
-Ô­ĞÍÍ¼Éè¼Æ			Ä«µ¶
+- SqlæŸ¥çœ‹				Navicat for Sql
+- Jsonæ•°æ®æ ¼å¼åŒ–		HiJson
+- æ¥å£æµ‹è¯•				PostMan
+- Uiå›¾ç‰‡æŸ¥çœ‹			Mark Manï¼ŒPxCook
+- åŸå‹å›¾è®¾è®¡			å¢¨åˆ€
