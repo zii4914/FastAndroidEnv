@@ -1,0 +1,45 @@
+顶层布局id命名
+layout_activity
+layout_fragment
+layout_popup
+layout_dialog
+
+显示
+display
+show
+
+常量
+constant
+const
+
+公共
+common		通常用在包名(公共，平凡)
+base		用于被继承，基类
+abstract	用于被继承，基类
+
+子
+child 如childView
+sub		
+
+订单
+order
+
+目标
+traget		目标对象，目的
+goal		达成什么目标
+
+成长
+grow
+growth
+
+设置
+setting		配置，设置，名词
+setUp		设置/安装，动词
+set			设置，动词，一般
+
+重置
+reset
+
+清空
+clear
+
