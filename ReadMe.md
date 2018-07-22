@@ -1,8 +1,8 @@
 # Andorid:
 
 1. 下载并安装JDK
-2. 下载并安装SDK
-3. 下载并安装AS
+2. 下载并安装AS
+3. 下载并安装SDK
 4. 下载并安装Git
 5. 配置AS的Style及插件   
 (AndroidButterKnifeZelezny，GsonFormat，CheckStyle-IDEA，Translation，CodeGenerator，TemplateBuilder)
