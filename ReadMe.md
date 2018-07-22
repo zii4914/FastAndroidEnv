@@ -1,18 +1,19 @@
 # Andorid:
 
-1. 下载并安装JDK
-2. 下载并安装AS
-3. 下载并安装SDK
+1. 下载并安装[JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+2. 下载并安装[AS](https://developer.android.com/studio/)
+3. AS内下载安装SDK
 4. 下载并安装Git
-5. 配置AS的Style及插件   
+5. 配置Git ssh
+6. 配置AS的Style及插件(Github下载个人配置文件)
 (AndroidButterKnifeZelezny，GsonFormat，CheckStyle-IDEA，Translation，CodeGenerator，TemplateBuilder)
-6. 配置Git ssh
+
 
 # PC:
 
-- NotePad++
-- Chrome
-- 蓝灯
+- [NotePad++](https://notepad-plus-plus.org/)
+- [Chrome](https://www.google.cn/chrome/)
+- [蓝灯](https://github.com/getlantern/lantern)
 - TMI
 - 微信
 - 网易邮箱大师
