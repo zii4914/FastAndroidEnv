@@ -3,7 +3,7 @@
 1. 下载并安装[JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 2. 下载并安装[AS](https://developer.android.com/studio/)
 3. AS内下载安装SDK
-4. 下载并安装Git
+4. 下载并安装[Git](https://gitforwindows.org/)
 5. 配置Git ssh
 6. 配置AS的Style及插件(Github下载个人配置文件)
 (AndroidButterKnifeZelezny，GsonFormat，CheckStyle-IDEA，Translation，CodeGenerator，TemplateBuilder)
