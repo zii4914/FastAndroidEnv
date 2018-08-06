@@ -8,6 +8,7 @@
 6. 配置AS的Style及插件(Github下载个人配置文件)
 (AndroidButterKnifeZelezny，GsonFormat，CheckStyle-IDEA，Translation，CodeGenerator，TemplateBuilder)
 
+> AS插件配置：[CheckStyle](https://github.com/zii4914/FastAndroidEnv/blob/master/article/CheckStyle配置.md)
 
 # PC:
 
